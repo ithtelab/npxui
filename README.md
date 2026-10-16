@@ -17,7 +17,7 @@
 [![共建](https://img.shields.io/badge/共建-CONTRIBUTING-5319e7)](CONTRIBUTING.md)
 [![反馈](https://img.shields.io/github/issues/ithtelab/npxui?color=f59e0b&label=%E5%8F%8D%E9%A6%88)](https://github.com/ithtelab/npxui/issues)
 
-[English](README.en.md) · **简体中文** ｜ 本项目在 [LINUX DO](https://linux.do) 社区发布与交流
+[English](README.en.md) · **简体中文**
 
 <a href="https://github.com/ithtelab/npxui"><img src="docs/images/hero.svg" alt="NPXUI" width="100%" /></a>
 
@@ -152,7 +152,6 @@ $ npx npxui add @alice/glow-button
 
 - [**shadcn/ui**](https://github.com/shadcn-ui/ui)（MIT）—— 注册表协议的事实标准，本项目的对外接口完全遵循它
 - [**shadcn-vue**](https://github.com/unovue/shadcn-vue)（MIT）—— Vue 侧的协议实现
-- [**LINUX DO**](https://linux.do) —— 本项目的发布与交流社区
 
 > 本项目后续引入的第三方组件均保留其原始许可与署名；本仓库自身的许可不适用于它们。
 

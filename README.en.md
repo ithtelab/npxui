@@ -17,7 +17,7 @@ A component registry for React and Vue 3 / Nuxt: one command writes a component'
 [![Contributing](https://img.shields.io/badge/contributing-CONTRIBUTING-5319e7)](CONTRIBUTING.md)
 [![Issues](https://img.shields.io/github/issues/ithtelab/npxui?color=f59e0b&label=issues)](https://github.com/ithtelab/npxui/issues)
 
-**English** · [简体中文](README.md) ｜ Published and discussed in the [LINUX DO](https://linux.do) community
+**English** · [简体中文](README.md)
 
 <a href="https://github.com/ithtelab/npxui"><img src="docs/images/hero.svg" alt="NPXUI" width="100%" /></a>
 
@@ -152,7 +152,6 @@ Three ways in, ordered by what's most needed right now:
 
 - [**shadcn/ui**](https://github.com/shadcn-ui/ui) (MIT) — the de facto registry protocol; our public interface follows it exactly
 - [**shadcn-vue**](https://github.com/unovue/shadcn-vue) (MIT) — the protocol implementation on the Vue side
-- [**LINUX DO**](https://linux.do) — the community where this project is published and discussed
 
 > Third-party components imported in future keep their own licences and attribution; this repository's licence does not apply to them.
 
