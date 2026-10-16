@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+
+# Package manager
+.npm/
+.yarn/
+pnpm-debug.log*
+npm-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env*.local
+.env.production
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Playwright (media worker)
+/test-results/
+/playwright-report/
+/blob-report/
+
+# Supabase
+supabase/.branches/
+supabase/.temp/
+
+# ---------------------------------------------------------------- #
+# Internal material — not published yet.
+#
+# The master specification contains a full competitive analysis, and
+# the ingestion allowlist contains the sourcing playbook. Both are
+# being kept out of the public repo until that's a deliberate call.
+# To publish, delete the lines below and `git add` the files.
+# ---------------------------------------------------------------- #
+/新派 UI.md
+/摄取流水线规范.md
+/sources.yaml
+/private/

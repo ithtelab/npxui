@@ -1,0 +1,22 @@
+# Normalize line endings across platforms
+* text=auto eol=lf
+
+# Binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.avif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.mp4 binary
+*.webm binary
+*.wasm binary
+
+# Keep lockfiles out of language stats and diff noise
+pnpm-lock.yaml -diff linguist-generated
+package-lock.json -diff linguist-generated
+yarn.lock -diff linguist-generated
