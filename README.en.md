@@ -19,7 +19,7 @@ A component registry for React and Vue 3 / Nuxt: one command writes a component'
 
 **English** · [简体中文](README.md)
 
-<a href="https://github.com/ithtelab/npxui"><img src="docs/images/hero.svg" alt="NPXUI" width="100%" /></a>
+<a href="https://github.com/ithtelab/npxui"><img src="docs/images/hero.webp" alt="NPXUI" width="100%" /></a>
 
 </div>
 

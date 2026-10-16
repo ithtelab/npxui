@@ -19,7 +19,7 @@
 
 [English](README.en.md) · **简体中文**
 
-<a href="https://github.com/ithtelab/npxui"><img src="docs/images/hero.svg" alt="NPXUI" width="100%" /></a>
+<a href="https://github.com/ithtelab/npxui"><img src="docs/images/hero.webp" alt="NPXUI" width="100%" /></a>
 
 </div>
 
